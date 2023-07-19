@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_CreateStoreShopify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea33936f-938a-492b-aba4-cf4f603ce42f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f597a8fb-f211-4856-9f44-27a411aee192</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f597a8fb-f211-4856-9f44-27a411aee192</id>
+      <masked>false</masked>
+      <name>StoreName</name>
+   </variable>
+</TestCaseEntity>

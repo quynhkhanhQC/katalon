@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_LoginAccountShopify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afc39138-623c-4fca-b27e-31a4c9d55ca5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c88db54-d757-4fd0-b905-ce4c0e41ac38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c88db54-d757-4fd0-b905-ce4c0e41ac38</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

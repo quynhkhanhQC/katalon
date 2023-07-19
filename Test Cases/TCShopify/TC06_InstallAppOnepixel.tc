@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_InstallAppOnepixel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d01c55-23f9-4f50-b3d9-048ffae91165</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82641237-5ad0-4eb9-92fc-142e9f49c2d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'khanhtestauto82351.myshopify.com'</defaultValue>
+      <description></description>
+      <id>82641237-5ad0-4eb9-92fc-142e9f49c2d5</id>
+      <masked>false</masked>
+      <name>urlstore</name>
+   </variable>
+</TestCaseEntity>
